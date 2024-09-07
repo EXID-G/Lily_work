@@ -1,0 +1,51 @@
+timeline;location;context
+00:00:02,399 --> 00:00:04,960;United Kingdom;we are the Hutchinson family a full-time traveling family from the United Kingdom
+00:00:14,879 --> 00:00:18,320;China;today is the day we are about to fly to China
+00:01:34,119 --> 00:01:36,040;China;we are going light around China
+00:02:55,000 --> 00:02:56,760;China;the good news is we are on a plane to China right now
+00:04:31,840 --> 00:04:37,240;Guangzhou, China;we've made it we're on Chinese soil right now and we're in Guang Joo
+00:05:55,479 --> 00:05:58,000;China;there was a bit of confusion with our taxi guy here in China
+00:07:47,120 --> 00:07:50,080;a mall in Guangzhou;we're coming to a mall and we're trying to look for lunch
+00:11:30,880 --> 00:11:34,519;Beijing Road, Guangzhou;we just got some strawberries and this is right here on Beijing Road
+00:12:46,959 --> 00:12:50,680;Guangzhou;Opening Our China series here in Guan Joe it's been absolutely amazing
+timeline;dos;context
+00:00:04,960 --> 00:00:08,800;introduce the family;meet Tamira Chris Olivia scarlet and Bella join us
+00:00:11,480 --> 00:00:14,879;plan to travel;as we spend the next 3 months traveling through China
+00:00:18,320 --> 00:00:22,359;fly to China;and travel around for 3 months we cannot wait we're super excited we're here at quala Lumpa International Airport and we fly at around 6:00 p.m.
+00:01:06,200 --> 00:01:11,960;worry about visas and travel;if we've got the right visa and I just don't know but we're going to give it a good go and just see how it goes
+00:01:20,799 --> 00:01:25,240;check in with backpacks;so we have found our check-in desk and we're about to check in but we are checking in this time with backpacks
+00:01:58,800 --> 00:02:01,840;face potential travel issues;this could be may call break on our whole China trip there's a little bit of an issue with the VISA
+00:02:49,159 --> 00:02:55,000;board a plane to China;we are on a plane to China right now so we've made it onto the plane we checked in our luggage has gone through
+00:03:37,599 --> 00:03:44,120;hope to enter China;please don't send us back fingers crossed we're really really hoping they let us in we've got a big tour to do
+00:04:27,560 --> 00:04:31,840;arrive in Guangzhou;we are here we've made it we're on Chinese soil right now and we're in Guang Joo
+00:05:13,759 --> 00:05:18,240;get a taxi;so we've managed to find a taxi we're in it I think we've got the right place that we're going to
+00:05:55,479 --> 00:06:10,960;face a taxi mishap;there was a bit of confusion with our taxi guy I think it was a breakdown in communication and he's literally just dropped us off in the middle of nowhere
+00:06:43,400 --> 00:06:50,000;arrive at their accommodation;so here's our first introduction to being here um but yeah it feels really safe it's not noisy at all
+00:07:50,080 --> 00:07:55,919;look for lunch;we're trying to look for lunch we're absolutely starving we've stumbled across it's like food court it looks really cool
+00:08:18,840 --> 00:08:31,440;eat at Holly U Cafe;so we finally got a table here at what is looks like a very popular place it's called Holly U Cafe
+00:08:34,120 --> 00:08:55,279;enjoy their meal;I have got some matcha toast... it's really nice just check out this for a drink it's I think a matcha milk tea
+00:10:45,320 --> 00:10:50,240;finish their meal;fantastic so we've just had that incredible meal we're so so happy we went there all of the food was fantastic
+00:11:09,880 --> 00:11:20,800;interact with cosplay community;everybody is dressed in like anime clothing and anime costumes... they look so so good so the girls had a few photographs
+00:11:30,880 --> 00:11:34,519;buy strawberries;we just got some strawberries and this is right here it looks like it's like liquid like sticky it's actually a lollipop with STW inside
+00:12:04,360 --> 00:12:09,120;dance;you too feel alive let's hit the dance floor don't work too hard my break a back
+00:12:11,360 --> 00:12:15,320;explore Beijing Road;there are so many people around I think it's like a walking Street there shops on the other side the screens everywhere the feel of it here is amazing
+timeline;emosOrEvaluations;context
+00:00:02,399 --> 00:00:04,960;super excited;we're super excited we're here at quala Lumpa International Airport
+00:00:18,320 --> 00:00:22,359;cannot wait;we cannot wait we're super excited we're here at quala Lumpa International Airport and we fly at around 6:00 p.m.
+00:00:34,760 --> 00:00:38,480;slightly nervous;even though we've got the Visa we're still slightly nervous cuz it was a little bit difficult to get these Visas
+00:01:08,159 --> 00:01:14,560;I cannot wait;I cannot wait to get there let's go to China let's go to China
+00:02:13,040 --> 00:02:16,000;a little bit nervous;I don't actually know what's going to happen a little bit nervous right now
+00:02:49,159 --> 00:02:55,000;good news;the good news is we are on a plane to China right now so we've made it onto the plane
+00:03:07,920 --> 00:03:14,519;a little bit of a nervous time;it's a little bit of a nervous time we're now flying there it's a 4 hour flight that we're on and then we'll see what happens
+00:03:37,599 --> 00:03:44,120;really hoping;we're really really hoping they let us in we've got a big tour to do and we're excited about it
+00:04:31,840 --> 00:04:37,240;so excited;we are so excited we were so nervous leaving koala Lumpa that made it really difficult we literally thought when we got here that weren't going to allow us through
+00:05:44,240 --> 00:05:48,840;cannot wait;I cannot wait to see where we're staying I hope we're going to get
+00:07:55,919 --> 00:07:57,440;looks really cool;it looks really cool when we've been walking around the food looks delicious and and the price looks just right
+00:08:18,840 --> 00:08:22,280;really hope;I really hope I've said that right I've just ordered all of our food and it came to
+00:08:48,920 --> 00:08:55,279;gorgeous;I cannot wait to try this food it smells gorgeous in here
+00:10:45,320 --> 00:10:50,240;so so happy;we're so so happy we went there all of the food was fantastic
+00:11:07,760 --> 00:11:12,519;paying tribute;they're paying tribute to this person who's passed away
+00:11:25,560 --> 00:11:29,380;really really impressed;this one so far we are really impressed
+00:12:43,760 --> 00:12:50,680;absolutely amazing;Opening Our China series here in Guan Joe it's been absolutely amazing I cannot believe it
+00:12:52,880 --> 00:12:57,320;insane;but today walking around my eyes are wide open I'm abely Blown Away with the nicest of people coming up talking to us
+00:13:16,399 --> 00:13:19,040;so much more coming;if you haven't subscribed subscribe now cuz we've got so much more coming

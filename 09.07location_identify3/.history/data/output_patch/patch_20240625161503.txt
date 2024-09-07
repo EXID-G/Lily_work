@@ -1,0 +1,10 @@
+for i in tqdm(range_list):
+    my_filepath = f"data/Interview transcripts-round 3/{file_list[i]}"
+    # tmp = split_text(read_docx(my_filepath))
+    ner_list, filename = get_location_from_one(my_filepath)
+    # display(ner_list)
+    with open(f"data/output_hanlp/{filename}.txt","w") as f:
+        f.write("[\n")
+        for item in ner_list:
+            f.write("%s\n" % item)
+        f.write("]")

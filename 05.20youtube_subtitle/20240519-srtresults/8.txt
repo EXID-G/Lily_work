@@ -1,0 +1,78 @@
+timeline;location;context
+00:00:03,240 --> 00:00:06,240;World tour;welcome all of you to the world tour
+00:00:10,880 --> 00:00:13,880;Macau;going to a new country today which is Macau
+00:00:24,439 --> 00:00:28,019;Hong Kong;Gas will go to Hong Kong and will show you Macau and China
+00:00:39,379 --> 00:00:43,739;Bus;leave and take a bus
+00:00:49,920 --> 00:00:52,820;Richest countries;come to one of the richest countries in the world, its population
+00:01:27,840 --> 00:01:30,479;Shiv;from Hong Kong we will take a boat or Shiv and will go to Macau
+00:01:53,960 --> 00:01:58,520;Ship;let's go to the ship
+00:03:21,360 --> 00:03:23,640;Legend Place Hotel;We have come here, we don't know what this thing is, there is a very old place inside Macau
+00:03:41,180 --> 00:03:45,540;Macau;Macau, which is gas, got independence in 1998-99
+00:05:43,440 --> 00:05:46,199;Lady Buddha;here behind me is a very big statue of Lady Buddha made of metal
+00:06:32,520 --> 00:06:35,340;Burj Khalifa;this building must be good, like Burj Khalifa is popular
+00:08:37,860 --> 00:08:41,880;Puri river;this Puri river is going and near this river there is this river
+00:09:08,480 --> 00:09:11,220;Macau Old Church;the special thing about the old church of Macau is that Macau has its own government
+00:10:40,200 --> 00:10:42,240;Hong Kong;after that we will go to Hong Kong
+00:10:50,279 --> 00:10:52,760;Amba Temple;now we have to see, this temple is till the top
+00:12:27,420 --> 00:12:30,360;Old market;this is an old market and here is a small area like this
+00:13:46,080 --> 00:13:50,490;Tunnel;now we are entering this tunnel
+00:14:27,560 --> 00:14:30,480;New beach;Within two to three years, a new beach will be built at this place
+00:14:46,380 --> 00:14:49,940;Macau Airport;this is the airport of Macau
+00:16:32,820 --> 00:16:36,380;City of Dreams;now we have come to the City of Dreams
+00:17:05,540 --> 00:17:09,980;Various cities;you will see many buildings here too. You will see that this one is London, this is Paris
+00:18:41,400 --> 00:18:43,820;India;I am back brother, it was very nice, meet you, okay
+00:19:03,600 --> 00:19:05,400;Port;we brothers have arrived at the port and now we are going back to Hong Kong
+00:19:13,380 --> 00:19:15,240;Bus;This time we will go back by bus, we will try by bus
+00:19:41,820 --> 00:19:44,340;China;Because of this road, there is about 40 kilometer long road which will leave us from Macau to Hong Kong, but this road is completely going through China
+timeline;dos;context
+00:01:20,880 --> 00:01:23,280;Travel to another country;Yes, gas is required from Shiv. We are currently in Hong Kong and from Hong Kong we will take a boat or Shiv and will go to Macau.
+00:01:39,900 --> 00:01:42,000;Prepare to leave;so let's leave quickly, the saree packing has been done, we will leave from here.
+00:01:58,520 --> 00:02:01,610;Board the ship;let's go to the ship, let's go brother, let's go.
+00:02:45,680 --> 00:02:50,819;Cooking gram flour;The gram flour of the city and we are going to cook the car.
+00:03:17,360 --> 00:03:21,360;Visit Legend Place Hotel;Legend Place Hotel We have come here, we don't know what this thing is, there is a very old place inside Macau.
+00:05:14,820 --> 00:05:17,340;Visit Lady Buddha;this is Lady Buddha which is a very big statue.
+00:05:43,440 --> 00:05:46,199;Order food;Gas, we have ordered some food.
+00:06:11,580 --> 00:06:14,780;Eat vegetable biryani;there is vegetable biryani inside it, it must be good.
+00:10:52,760 --> 00:10:55,320;Visit Amba Temple;now we have to see, this temple is till the top, so let's go in it.
+00:11:18,620 --> 00:11:22,200;Visit temple;I went to the temple, now do you understand.
+00:12:03,779 --> 00:12:06,480;Observe sarees available;they have sarees available, why because they have Tourists come everywhere.
+00:12:18,440 --> 00:12:21,180;Watch India on television;We watch India on television and we are like this is very cool.
+00:12:27,420 --> 00:12:30,360;Observe old market;this is an old market and here is a small area like this.
+00:13:04,200 --> 00:13:07,459;Enter the tunnel;now we are entering this tunnel.
+00:13:56,880 --> 00:14:00,120;Observe land reclamation;look at this thing which is next to here, there used to be sea in this place.
+00:14:46,380 --> 00:14:49,940;Visit Macau Airport;this is the airport of Macau.
+00:15:51,000 --> 00:15:54,779;Discuss casino betting;More money comes, people from outside come to play in the casino, they do betting there.
+00:16:32,820 --> 00:16:36,380;Visit City of Dreams;now we have come to the City of Dreams.
+00:17:32,100 --> 00:17:34,679;Encourage liking the video;It's a must to like the video, brother, please give it a like.
+00:19:05,400 --> 00:19:08,400;Return to Hong Kong;and now we are going back to Hong Kong.
+00:19:13,380 --> 00:19:15,240;Attempt to travel by bus;This time we will go back by bus, we will try by bus.
+timeline;emosOrEvaluations;context
+00:00:34,920 --> 00:00:37,620;very rich;Macau is a very rich place, a place of very rich people.
+00:01:09,960 --> 00:01:12,180;special;and gas, the special thing about this trip.
+00:01:23,280 --> 00:01:25,380;currently;currently in Hong Kong.
+00:02:39,000 --> 00:02:45,680;[Music];[Music] (The speaker seems to be in a good mood as indicated by the cheerful music.)
+00:03:05,760 --> 00:03:08,900;new;Now we will show you a new country.
+00:03:41,180 --> 00:03:45,540;independence;Macau, which is gas, got independence in 1998-99.
+00:04:01,560 --> 00:04:04,019;different;The rules were different, so it's like here too.
+00:04:57,720 --> 00:04:59,759;Macau;Macau is Macau and a lot of people come here to try their luck.
+00:05:54,479 --> 00:05:56,900;dog;But by the way, the lady is a dog. (This seems to be a humorous or light-hearted comment.)
+00:06:11,580 --> 00:06:14,780;good;there is vegetable biryani inside it, it must be good.
+00:06:32,520 --> 00:06:35,340;good;this building must be good, like Burj Khalifa is popular.
+00:07:17,100 --> 00:07:20,220;story;Sari is telling the story of her life and this brother is listening with great interest.
+00:07:34,819 --> 00:07:37,860;giving birth;What is visible from here, what is the thing that is giving birth to the children, this is this.
+00:08:25,080 --> 00:08:28,319;different country;there is another country, there is that, which country is that, that too is China.
+00:09:14,399 --> 00:09:18,800;own government;Macau has its own government.
+00:10:10,680 --> 00:10:13,440;cannot believe;I still cannot believe that we have come inside a country in a ship.
+00:10:21,660 --> 00:10:24,120;very different;this experience is very different in itself.
+00:10:35,100 --> 00:10:36,899;like the video;If you do like then we will be reimbursed.
+00:11:31,860 --> 00:11:34,560;temple;a temple is a temple, look at the temple.
+00:11:40,860 --> 00:11:43,040;happy;keep everyone happy.
+00:12:24,019 --> 00:12:27,420;very cool;this is very cool, brother.
+00:13:56,880 --> 00:14:00,120;very special;So brother, there is a very special thing here.
+00:14:27,560 --> 00:14:30,480;new beach;Within two to three years, a new beach will be built at this place.
+00:15:54,779 --> 00:15:58,320;government;the government here is a committee.
+00:16:05,760 --> 00:16:11,120;completely different;it is completely different.
+00:17:17,640 --> 00:17:20,099;so many;but  So many things and everything is
+00:17:20,099 --> 00:17:22,679;luxury;VIP, everything is luxury, although there are some
+00:18:10,799 --> 00:18:15,660;so big, very small;tried to show you almost the entire Macau, it is only so big brother, Macau is a very small
+00:18:18,120 --> 00:18:20,160;enjoyed it a lot;I hope that you would have enjoyed it a lot

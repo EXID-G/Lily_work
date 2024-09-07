@@ -1,0 +1,41 @@
+timeline;location;context
+00:00:04,040 --> 00:00:07,759;Shanghai, China;I've been loving it this time at Sharman
+00:01:52,840 -- 00:02:08,360;Lang Yu Island;going to try and get the ferry to go Lang Yu Island
+00:05:31,280 -- 00:05:37,000;beach in Gangu Island;somewhere having photos hello hello hello hello
+00:08:43,440 -- 00:08:57,329;beach in Gangu Island;here we are I think I see a beach and it must be this way let's go
+00:10:46,079 -- 00:10:49,959;port to get the ferry back to Shaman;we've made it the queue is all there and the views from here of the Shan Skyline look really really good
+00:11:54,079 -- 00:11:56,560;moving on to Hangzhou;we're heading up to Hangzhou we will see you in our next video and that will be in Hangzhou
+timeline;dos;context
+00:00:13,559 --> 00:00:16,320;seeing lots of two buildings and interesting sides;favorite part is probably seeing lots of two buildings and interesting sides
+00:00:44,559 --> 00:00:46,680;been quite party;Mommy and Daddy have been quite party
+00:01:22,560 --> 00:01:24,439;take a couple of days recovery;we're going to take a couple of days recovery
+00:01:41,280 --> 00:01:43,600;not just being in our hotel room;that means not just being in our hotel room
+00:02:49,720 --> 00:02:53,239;get over to Lang Yu Island;it costs us to get over there about £30 for all of us
+00:03:21,519 --> 00:03:23,680;get on the ferry;go so we're about to get on the fair now
+00:05:42,639 --> 00:05:46,199;find somewhere to eat;hello we have found somewhere to eat
+00:05:55,039 --> 00:05:59,199;learn how and why the cutlery set is used;here and I now know why they put boiled water in the middle like this
+00:06:31,400 --> 00:06:33,880;ordered some dishes;we've got some beef noodles we've got some shredded pork some sweet and sour pork some vegetables
+00:07:38,919 --> 00:07:42,599;try a cream bun;I'm going to have to try this cream bun
+00:08:35,958 --> 00:08:39,479;explore the alleyways;Alleyways okay I see a beach right there
+00:08:58,440 --> 00:08:59,620;visit the beach;beach
+00:10:01,399 --> 00:10:03,160;head back to the port;I think it's time to head back now to the port
+00:11:03,440 --> 00:11:06,120;get the ferry back;but we've made it in time pH it's very different from when we came from Shaman over to the island
+00:11:54,079 --> 00:11:56,560;move on to Hangzhou;it's time to move on now we're heading up to Hangzhou
+timeline;emosOrEvaluations;context
+00:00:04,040 --> 00:00:07,759;loving it;I've been loving it this time at Sharman
+00:00:10,920 --> 00:00:13,559;favorite part;your favorite part of China Olia my favorite part
+00:00:26,279 --> 00:00:29,720;happy;I'm so happy that I'm here
+00:00:37,800 --> 00:00:41,480;cute;we find it cute so we're actually leaving tomorrow
+00:01:03,960 --> 00:01:06,560;update;update our trip to Shaman hasn't quite gone as planned
+00:01:20,880 --> 00:01:22,560;super rough;feeling super rough meaning that we can't get out
+00:01:36,680 --> 00:01:39,360;determined;we are determined to make the most of being in Shaman
+00:02:49,720 --> 00:02:53,239;excited;I am excited been herded in right now
+00:05:42,639 --> 00:05:46,199;thankful;and we have made it to gangu Island I'm so thankful
+00:06:33,880 --> 00:06:36,520;really good;it is looking really really good
+00:06:43,080 --> 00:06:46,360;my favorite dish;my favorite dish definitely was the shredded chili potato dish
+00:07:56,280 --> 00:07:59,919;so good;yeah so so good I never thing
+00:08:19,919 --> 00:08:21,919;peaceful;it's so nice and peaceful
+00:10:06,959 --> 00:10:08,560;really nice;it's been a really nice experience on here
+00:11:49,200 --> 00:11:51,399;really enjoyed;what we have seen we've really really enjoyed
+00:11:51,399 --> 00:11:54,079;wonderful City;and it is a wonderful City
+00:12:02,839 --> 00:12:04,399;big thumbs up;if you enjoyed this video please give it a big thumbs up

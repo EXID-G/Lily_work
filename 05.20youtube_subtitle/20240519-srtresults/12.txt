@@ -1,0 +1,97 @@
+timeline;location;context
+00:01:06,880 --> 00:01:09,439;the nearest door;go got to go let's go in the nearest door
+00:02:30,480 --> 00:02:33,200;Wang Shen Valley;Village in the mountains called Wang Shen Valley
+00:02:33,200 --> 00:02:36,440;jangi Province;it's in another Province called jangi
+00:02:36,440 --> 00:02:39,480;hjo city;a highspeed train from hjo
+00:02:39,480 --> 00:02:42,360;shangra city;all the way to another city called shangra
+00:05:45,080 --> 00:05:48,560;Shango;y hi welcome to Shango
+00:06:09,000 --> 00:06:11,360;East Coach Station;now we are here at the East Coach Station
+00:11:01,880 --> 00:11:06,820;Wind Valley Homestay;this place is called Wind Valley Homestay
+00:13:57,399 --> 00:14:00,079;part of the valley;that's already part of the valley
+00:14:52,519 --> 00:14:55,120;Red Bridge;so we should go this way first across the beautiful Red Bridge
+00:15:51,680 --> 00:15:55,480;river;people used to come here just to do tubing or rafting down the river
+00:16:06,720 --> 00:16:10,759;the Valley;they started to develop this Valley even more for tourism
+00:17:32,520 --> 00:17:36,080;water source area;I think that part of it is natural and they built around it
+00:18:41,320 --> 00:18:44,760;the street with the activity;this is a very cool thing to do it's called breaking the bowl wine
+00:22:50,559 --> 00:22:52,320;the food street;this is the food street
+00:28:07,480 --> 00:28:10,080;the little red Bridge;we started from that little red Bridge there
+00:28:12,640 --> 00:28:14,880;the other side of the cliff;walked down the other side the food street up now we're here
+00:28:20,159 --> 00:28:23,320;the highest point;I think this is the highest point
+00:29:02,240 --> 00:29:05,320;the valley;this is too much I think most people will either feel like wow this is amazing or feel like this is very artificial
+timeline;dos;context
+00:00:16,440 --> 00:00:20,000;comment on food;that's insane crazy how they built it
+00:01:04,000 --> 00:01:06,880;enter a place;guess so the door is still open I got to
+00:01:52,680 --> 00:01:55,840;continue journey;because keep going keep going
+00:02:05,399 --> 00:02:08,280;find seat on train;leaving now CU we found our seat I guess
+00:02:33,200 --> 00:02:36,440;plan adventure;Village in the mountains called Wang
+00:03:31,640 --> 00:03:37,799;talk about train tickets;Hanjo shangra is um $22 per person
+00:05:48,560 --> 00:05:51,039;arrive at Shangra;hi welcome to Shangra we're here for a few minutes yeah
+00:06:11,360 --> 00:06:14,400;try to purchase bus tickets;let's check it out
+00:06:40,080 --> 00:06:42,520;buy bus tickets with help;to scan that to buy the ticket for me
+00:07:04,199 --> 00:07:07,720;talk about transportation options;it's not easy going to this Village
+00:08:40,640 --> 00:08:42,440;comment on bus situation;keep beeping he said because some people don't have their seat belts on yet
+00:10:57,079 --> 00:11:01,880;arrive at guest house;we finally managed to a guest house
+00:11:12,519 --> 00:11:17,839;comment on guest house;this place is called Wind Valley Homestay
+00:11:20,600 --> 00:11:23,839;talk about cost and service;paying about $47 per night for the room
+00:11:31,839 --> 00:11:36,079;discuss amenities;downstairs they have a little juice bar
+00:12:14,959 --> 00:12:17,800;receive juice;delivered some fresh juice for us for free
+00:12:23,199 --> 00:12:27,079;discuss plans for sightseeing;to see the canola flower field
+00:12:58,079 --> 00:13:00,399;decide to go to the valley;Valley today yeah mhm
+00:13:32,360 --> 00:13:34,120;talk about the valley;night view is super epic
+00:13:43,800 --> 00:13:46,580;comment on the valley;this is like a giant theme park
+00:14:33,959 --> 00:14:36,040;buy tickets for the valley;good thing we got our passports with us
+00:15:55,480 --> 00:15:57,639;talk about the valley's history;come here just to do tubing or rafting
+00:16:06,720 --> 00:16:10,759;comment on the development;houses they built on the cliff side
+00:17:05,760 --> 00:17:09,679;react to the construction;how do you even build a structure on the side of the cliff
+00:18:41,320 --> 00:18:44,760;try a local activity;this is a very cool thing to do it's called breaking the bowl wine
+00:19:34,080 --> 00:19:37,320;enjoy the activity;Cheers that's delicious
+00:20:01,880 --> 00:20:06,280;smash the bowl;she said you smashed it
+00:21:31,600 --> 00:21:34,600;try street food;that's good that is so spicy but it's so good
+00:23:03,200 --> 00:23:05,240;find food street;there's lots of little street stalls in this alley here
+00:23:39,559 --> 00:23:43,039;try sour spicy noodles;called which is sour spicy noodle
+00:24:29,520 --> 00:24:33,559;enjoy the food;thicker quite tasty
+00:25:25,080 --> 00:25:29,210;praise the food;this is the best thing I have so far on this trip
+00:26:02,039 --> 00:26:05,640;admire the view;so beautiful wow you can walk all the way up
+00:27:25,600 --> 00:27:30,159;comment from the top;this is so stunning I'm speechless
+00:28:07,480 --> 00:28:10,080;reflect on the experience;humongous and we started from that little red Bridge
+00:29:27,640 --> 00:29:30,640;conclude the visit;nighttime is really really fun
+00:29:32,919 --> 00:29:35,120;give advice for visitors;wear comfy shoes because there is a lot of walking
+timeline;emosOrEvaluations;context
+00:00:04,399 --> 00:00:06,399;wow;Squarespace wow where do you even begin
+00:00:16,440 --> 00:00:20,000;spicy, good;that's insane crazy how they built it look at that is so spicy but it's so good
+00:01:25,360 --> 00:01:28,479;oh my;20 oh my goodness oh my God
+00:01:52,680 --> 00:01:55,840;keep going;because keep going keep going
+00:02:14,440 --> 00:02:15,800;spacious;it's quite spacious actually
+00:02:37,439 --> 00:02:40,640;epic adventure;we have quite an epic adventure planned because
+00:03:18,319 --> 00:03:21,959;beautiful;once you see how beautiful it is you're
+00:03:37,799 --> 00:03:40,159;fast;this one is a lot faster mhm we're going at
+00:04:44,639 --> 00:04:48,520;biggest accomplishments;this is one of the biggest accomplishments
+00:05:41,039 --> 00:05:45,080;crazy, insanely huge amount of money;that's crazy that's insanely huge amount of
+00:06:03,199 --> 00:06:05,600;kind of cold;does it feel kind of cold here yeah
+00:06:27,520 --> 00:06:30,120;bit tricky;so we had a problem with purchasing the
+00:07:04,199 --> 00:07:07,720;not easy;it's not easy going to this Village oh my
+00:08:26,680 --> 00:08:30,159;chaotic;this is the most chaotic we have felt so
+00:09:16,720 --> 00:09:17,960;yeah;yeah lady behind [Laughter]
+00:10:57,079 --> 00:11:01,880;cozy;we finally managed to a guest house looks very cozy wow so
+00:11:17,839 --> 00:11:20,600;cute;cute so this place is called Wind Valley Homestay
+00:12:08,920 --> 00:12:11,360;sweet;the lady is so sweet she just came and uh delivered some fresh
+00:12:58,079 --> 00:13:00,399;good;sounds good can you believe it we uh going to the Valley now I
+00:13:43,800 --> 00:13:46,580;fun;that's already part of the valley fun
+00:14:52,519 --> 00:14:55,120;giant theme park;wow this is like a giant theme park yeah
+00:15:48,959 --> 00:15:51,680;neat;wow it's pretty neat isn't it that's
+00:16:57,360 --> 00:17:01,759;insane;wow it's crazy how they built it how
+00:17:23,799 --> 00:17:26,959;expensive;so expensive are they like real waterfalls
+00:18:44,760 --> 00:18:49,400;cool;this is a very uh a cool thing to do
+00:19:34,080 --> 00:19:37,320;delicious;Cheers that's delicious the lady's looking at
+00:20:36,799 --> 00:20:42,360;good;oh that's not good I think yeah you can do it one more
+00:21:34,600 --> 00:21:39,799;spicy, good;that is so spicy but it's so good
+00:22:50,559 --> 00:22:52,320;very beautiful place;I can't wait to see it at night you can already see
+00:23:39,559 --> 00:23:43,039;so good;so good the noodles are so good I'm
+00:24:25,600 --> 00:24:29,520;quite tasty;thicker quite tasty
+00:25:25,080 --> 00:25:29,210;the best;wow this is the best thing I have so far
+00:26:02,039 --> 00:26:05,640;so beautiful;so beautiful wow you can walk all
+00:27:25,600 --> 00:27:30,159;so stunning;this is so stunning I'm speechless
+00:27:55,399 --> 00:27:59,600;crazy;this is crazy
+00:28:02,919 --> 00:28:07,480;humongous;yes it's humongous and we started from that
+00:29:22,799 --> 00:29:27,640;really fun;nighttime is is really really fun well
+00:30:02,960 --> 00:30:07,240;wonderful day;as always have a wonderful day and we will see you in the next city

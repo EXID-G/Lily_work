@@ -1,0 +1,41 @@
+timeline;location;context
+00:00:08,880 --> 00:00:22,680;Taan;we are here in taan it's about 1 hour away from guango
+00:00:48,320 --> 00:00:55,600;Courtyard in Taian;and it's where they film some famous Chinese films uh TV programs there's one called The Knockout I think is one of them
+00:01:30,479 --> 00:01:37,000;Courtyard in Taishan;here so we've made it to the major Courtyard in taishan and it's really really interesting around here there's lots of old buildings
+00:02:12,120 --> 00:02:15,239;building where they filmed "Let the Bullets Fly";now we're about to go into the building where they filmed a famous Chinese film called let the bullets fly
+00:03:51,480 --> 00:03:57,000;rural area;we're going right into the thick of it into the rural bits I don't think there'll be many um tourists usually come to these areas
+00:04:33,520 --> 00:04:43,759;cafe;experience we've come to this really nice cafe I don't know what we've ordered this is the menu right here but Google translate has done us well
+00:08:51,880 --> 00:09:04,320;outskirts of guango;we're at like the outskirts of guango I think now so we're just going
+00:09:51,279 --> 00:09:59,959;Forest Area;I hope we're in China but we've come to this sort of Forest Area look behind me
+00:10:17,880 --> 00:10:21,120;lion dance location;here they are here's the lion dance performers right there we've made it the girls are back
+00:15:02,800 --> 00:15:15,000;China;and apparently we've been gifted a full lion's head I'm a little bit concerned how we're going to get home on the Metro and continue traveling around China
+timeline;dos;context
+00:00:02,040 --> 00:00:08,519;buy some black pepper beef;we'll be definitely buying some of this black pepper beef
+00:00:45,559 --> 00:00:55,600;visit a famous courtyard;so we're going there now to go see it
+00:01:28,119 --> 00:01:37,000;explore old buildings;here's lots of old buildings and I've learned that um some overseas Chinese people built this almost 100 years ago
+00:02:12,120 --> 00:02:18,160;go into a building;now we're about to go into the building where they filmed a famous Chinese film called let the bullets fly
+00:03:46,200 --> 00:03:57,000;get some food;so we're now going to try and get some food
+00:04:33,520 --> 00:04:43,759;order food at a cafe;we've ordered some stuff um it's still got the same table that like shuffles around
+00:05:04,039 --> 00:05:19,240;eat at a restaurant;we've got some lamb um and I think noodles and vegetables we've also got some sweet and sour pork
+00:07:30,840 --> 00:07:42,360;try local peanut candy;I'm going to try some local called peanut candy which is here
+00:08:51,880 --> 00:09:06,279;do a traditional lion dance;today we are been taken to do a traditional lion dance
+00:10:52,760 --> 00:11:01,040;wear lion dance uniforms;we've been given some uniforms so I think this means we're going to be doing the lion dance
+00:12:06,200 --> 00:12:18,040;perform lion dance;the girls need to learn their part first and then I'm going to learn my part
+00:13:56,519 --> 00:14:02,240;perform lion dance with Murphy;Murphy is going to be the back end and I'm going to be the lion head
+00:15:02,800 --> 00:15:10,959;receive a gift of lion's head;apparently we've been gifted a full lion's head
+timeline;emosOrEvaluations;context
+00:00:04,120 --> 00:00:06,080;really really;taian that is really really a me we'll
+00:00:27,920 --> 00:00:30,039;incredible;that was an incredible experience
+00:01:28,119 --> 00:01:37,000;really really interesting;here's lots of old buildings and I've learned that um some overseas Chinese people built this almost 100 years ago and it's been used for film sets there is The Knockout which is a famous Chinese TV program and also there's there used to be a big Market along here um which really was famous at end the time and yeah it is really interesting to come
+00:02:33,920 --> 00:02:37,360;really quite bizarre;but these stairs are so new must be for the set it's really quite bizarre and
+00:03:07,799 --> 00:03:10,159;really interesting;but yeah really interesting the ceiling
+00:05:52,800 --> 00:05:56,759;wow;wow that's the best meal
+00:06:00,240 --> 00:06:05,680;so soft, really really yummy;I've just tried this beef rib and it's so soft really really yummy I can't
+00:07:48,879 --> 00:07:52,039;really recognize;I really recognize the
+00:07:54,720 --> 00:07:58,440;really really;that is really really I mean we will be
+00:08:20,120 --> 00:08:25,039;very very good, very sweet;very very good very sweet you can really taste the
+00:10:49,200 --> 00:10:52,760;quite interesting;this now we've been given some uniforms so I think this means we're going to be
+00:11:42,480 --> 00:11:44,440;quite tricky;by the looks of it it's quite tricky to
+00:13:40,040 --> 00:13:43,199;really hot, really heavy;was fine but it really hot and the head is really like heavy so I had to let go
+00:14:30,920 --> 00:14:36,560;pretty hard, pretty cool;it's pretty hard I thought we did well there think ah it's yeah it's pretty cool it's harder than it looks
+00:14:57,199 --> 00:14:59,880;very nice;thank you so much very nice to meet you

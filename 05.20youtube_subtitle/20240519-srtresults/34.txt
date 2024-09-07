@@ -1,0 +1,58 @@
+timeline;location;context
+00:00:03,240 --> 00:00:05,280;China;I was the first tourist to enter China after they were closed for over three years.
+00:00:07,280 --> 00:00:09,200;Chengdu;Later I visited Chengdu and then went to Chongqing.
+00:00:09,560 --> 00:00:11,240;Chongqing;Now let's start visiting the spiciest city on the planet!
+00:01:04,200 --> 00:01:04,920;Chongqing;but the things got out of control and...
+00:01:15,640 --> 00:01:17,160;Downtown Chongqing;and then we went to downtown to make a sim card.
+00:02:55,680 --> 00:02:57,920;Italy;Yeah, before our chef was Italian.
+00:04:06,720 --> 00:04:08,040;Chongqing;Our bag is still there.
+00:05:42,080 --> 00:05:43,960;Chongqing;while they shoot a stadium video.
+00:06:47,880 --> 00:06:49,720;Stadium;about to enter the stadium from the main gate.
+00:10:42,800 --> 00:10:45,880;Streets of Chongqing;this is my first time eating by myself in China.
+00:12:40,760 --> 00:12:43,040;Restaurant;Oh, they have even subtitles in English.
+00:13:03,760 --> 00:13:05,360;Restaurant;I did ask for water and they brought me this tiny glass.
+timeline;dos;context
+00:00:05,280 --> 00:00:06,960;Visited China after it reopened;I was the first tourist to enter China after they were closed for over three years.
+00:00:11,240 --> 00:00:13,440;Visited Chengdu and Chongqing;Later I visited Chengdu and then went to Chongqing.
+00:00:14,880 --> 00:00:18,320;Started visiting Chongqing;Now let's start visiting the spiciest city on the planet!
+00:01:02,400 --> 00:01:04,200;Experienced nightlife in Chongqing;but the things got out of control and...
+00:01:11,200 --> 00:01:12,200;Ate noodles at 4-5 am;4-5 am noodles are not bad at all.
+00:01:15,640 --> 00:01:17,160;Woke up late;Anyway, the day after I woke up pretty late
+00:01:19,440 --> 00:01:20,640;Went to downtown Chongqing;and then we went to downtown to make a sim card.
+00:01:27,760 --> 00:01:28,560;Conducted a test;we are doing a test:
+00:01:35,440 --> 00:01:37,240;Left helmets and grocery on the motorcycle;Let's see if nobody's going to steal it or if it's going to stay here.
+00:03:40,000 --> 00:03:40,520;Expressed intention to try hot pot;You have to try.
+00:10:31,400 --> 00:10:33,160;Expressed desire to experience Chongqing's spiciness;I want to experience the super spicy and wet Chongqing in a proper place.
+00:10:45,880 --> 00:10:47,120;Eating alone for the first time in China;this is my first time eating by myself in China.
+00:10:50,080 --> 00:10:51,880;Ordered Gan Ban Chao Shou;I found the name of what I did order. Gan Ban Chao Shou.
+00:11:42,640 --> 00:11:43,440;Commented on the food;Very good food,
+00:12:40,760 --> 00:12:43,040;Considered eating Dandan noodles;Dandan noodles. Oh, they have even subtitles in English.
+00:13:40,200 --> 00:13:41,560;Ordered a very spicy dish;Extremely spicy. I have it to mix it.
+00:14:37,920 --> 00:14:40,400;Survived eating the spiciest noodle in Chongqing;I survived the spiciest noodle in Chongqing.
+timeline;emosOrEvaluations;context
+00:00:06,960 --> 00:00:09,200;excited;Now let's start visiting the spiciest city on the planet!
+00:00:18,480 --> 00:00:19,560;finally;Oh, finally,
+00:00:44,840 --> 00:00:46,280;best view;This is definitely the best view in the city.
+00:00:46,640 --> 00:00:48,360;unbelievable;This is just unbelievable.
+00:00:57,480 --> 00:00:59,000;promise;I promise I wasn't planning
+00:01:02,400 --> 00:01:04,200;out of control;but the things got out of control
+00:01:14,280 --> 00:01:15,640;not bad at all;noodles are not bad at all.
+00:02:21,000 --> 00:02:21,520;nice to meet;Nice to meet you.
+00:02:55,680 --> 00:02:57,920;crazy good;The pizza, the pizza is crazy good.
+00:03:45,240 --> 00:03:47,880;very friendly, nice;Very friendly, nice!
+00:05:20,680 --> 00:05:22,480;just wow;Wow, just wow.
+00:05:36,040 --> 00:05:36,520;today;Today
+00:05:44,040 --> 00:05:46,600;pretty cool;That's pretty cool.
+00:06:01,120 --> 00:06:04,240;do not see fat people;You do not see fat people in China.
+00:06:07,360 --> 00:06:08,720;fattest person;I am the fattest person on the ground right now.
+00:08:35,919 --> 00:08:36,599;Thank you;Thank you.
+00:09:12,840 --> 00:09:13,880;amazing;This is amazing.
+00:09:25,640 --> 00:09:28,120;perfect;If you have kids over here, that's perfect.
+00:10:18,440 --> 00:10:20,040;Handmade, Beautiful;Handmade. Beautiful.
+00:10:31,400 --> 00:10:33,160;super spicy;I want to experience the super spicy and wet Chongqing.
+00:11:25,040 --> 00:11:27,360;spicy;Not exaggerated spicy, but spicy for most people in the west.
+00:11:42,640 --> 00:11:43,440;Very good food;Very good food,
+00:12:44,360 --> 00:12:46,080;Extremely spicy;Is it extremely spicy what I want, that one?
+00:13:58,120 --> 00:13:58,680;crazy spicy;It is crazy spicy
+00:14:31,720 --> 00:14:32,360;Oh my goodness;Oh my goodness,
+00:14:37,920 --> 00:14:40,400;huge accomplishment;That's a huge accomplishment for humanity!

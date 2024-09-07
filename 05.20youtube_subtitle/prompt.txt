@@ -1,0 +1,23 @@
+用字符和英文回答：此字幕文件中，speaker去了哪些地方；
+回答格式为：[timeline];[location];[related context near the location]
+以下为回答示例：
+00:00:00,780 --> 00:00:07,800;China Shanghai;tomorrow we are flying to China Shanghai
+按要求格式回答
+
+
+用字符和英文回答：此字幕文件中，speaker做了什么、吃了什么或玩了什么；
+回答格式为：[timeline];[what the speaker did];[related context near what the speaker did]
+以下为回答示例：
+00:04:20,040 --> 00:04:24,660;jump in a taxi;and jump in a taxi and get to where we're staying because we are so tired
+00:04:46,140 --> 00:04:49,920;buy some water from 7-Eleven;come out our hotel and we're gonna try and buy some water from 7-Eleven
+按要求格式回答
+
+
+用字符和英文回答：此字幕文件中，能反映speaker的情绪或者对目的地评价的词句，比如一些感叹词和形容词；
+回答格式为：[timeline];[words can reflect the emotion or evaluations of the speaker];[the context where these words appear]
+以下为回答示例：
+00:05:05,280 --> 00:05:10,560;helpful, incredible;woman was so helpful and spoke incredible English I was like oh you can use cash most
+00:05:27,240 --> 00:05:32,460;wow, amazing;wow these look amazing kind of like covered in soy sauce like udon noodles in Japan but apparently these  
+00:05:38,340 --> 00:05:46,740;so good;that actually is so good and it's such a big portion look at it so we are now on our way  
+00:06:03,720 --> 00:06:05,760;perfect;perfect okay
+按要求格式回答

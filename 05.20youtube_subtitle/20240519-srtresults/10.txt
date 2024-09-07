@@ -1,0 +1,65 @@
+timeline;location;context
+00:00:04,319 --> 00:00:06,919;China;we are starting our month-long Adventure here in China
+00:00:08,880 --> 00:00:11,639;modern and vibrant cities, ancient wonders of China's Countryside;not only planning to visit the modern and vibrant cities but also go explore the ancient wonders of China's Countryside
+00:00:21,000 --> 00:00:23,160;Shanghai;our first stop is Shanghai
+00:01:26,799 --> 00:01:30,000;Shanghai;this whole street is called ylu and it's kind of a trendy spot in Shanghai at the moment
+00:03:45,599 --> 00:03:48,200;underground street food area near a park;he said there is a underground street food area that we must go and visit
+00:07:58,039 --> 00:08:03,240;end of Y, Jung so jungan park;we walk towards the end of Y already and this day is now Jung so jungan park
+00:10:02,519 --> 00:10:05,320;Shanghai;Shanghai has exceeded my expectation
+00:13:23,480 --> 00:13:26,120;China;because they are built here in China
+00:14:18,600 --> 00:14:20,680;underground city market;this is like a underground city market it smells like food so it must be in there
+00:15:02,440 --> 00:15:05,360;Shanghai;everything looks so good I want a whole chicken I think it may be too much food but I saw I saw this guy eating pork chop in Shanghai
+00:17:03,680 --> 00:17:14,079;Shanghai;we're now at the Metro station which is conveniently just underneath the mall where we were just eating and we are heading towards kind of the busier part of town called the Bund the famous Bund
+00:20:26,159 --> 00:20:29,480;naning pedestrian street;here we are now at the very popular naning pedestrian street
+00:21:01,840 --> 00:21:04,159;the Bund;we're planning to walk towards the Bund which is just at the end of this street
+00:22:33,559 --> 00:22:38,760;Shanghai;wow that is the my no famous what is it called can't even think right now the tower like the orian Oriental Pearl or something I have to find out the name of that Tower it's crazy that now that we here seeing it in front of us I have only seen it in photos it's iconic for Shanghai
+00:23:01,400 --> 00:23:04,159;Shanghai;the tallest building is actually the Shanghai Tower it's the third tallest building in the world so I think we got to go a bit more on the bridge to see
+00:25:20,799 --> 00:25:25,720;the Bund, Shanghai;this is the bun huh this is the bun it's freaking freaking incredible amazing right so the beautiful um like towers that we saw on the opposite side like the Oriental Pearl TV tower all of that is is not the Bund the Bund is this side which has 50 or more historic buildings mostly our banks and hotels basically a financial area this is a great start to our China Adventure I'm glad we came here to Shanghai I could live here
+timeline;dos;context
+00:00:26,160 --> 00:00:28,279;dive into the heart of Shanghai's vibrant culture;join us today as we Dive Into the Heart of shanghai's vibrant culture try some
+00:00:30,560 --> 00:00:32,719;try delicious local dishes;delicious local dishes and taking the
+00:01:30,000 --> 00:01:31,920;shopping for clothes to keep warm;now we're shopping for to to keep us warm that looks good but there I
+00:01:48,399 --> 00:01:52,079;try on a hat;the Hat was $239 239 Yen but after I added a pair of socks it became
+00:02:05,479 --> 00:02:09,080;admire cute socks;even my socks are cute look they're little lamb socks with
+00:02:21,959 --> 00:02:25,440;visit a trendy street;so that's the reason I brought you to this street here this whole street is
+00:04:42,630 --> 00:04:47,930;enjoy coffee at a cafe;look at this Cafe it looks so cute should we get one of these that
+00:05:07,080 --> 00:05:12,120;see a funny pastry;that's so funny you see this at the top of the cake there's a little maang on top
+00:07:17,440 --> 00:07:21,919;rent public bikes;it was so cheap it was $1.50 unen which is like 0.50 for 15
+00:07:58,039 --> 00:08:03,240;walk towards the end of Y;there so we walk towards the end of Y already and this day is now
+00:08:10,440 --> 00:08:13,039;visit Jung so jungan park;Jung so jungan park and I'm surprised to see that it's packed with people
+00:10:05,320 --> 00:10:09,760;listen to a song from a mafia movie;that's the famous long yeah I know that that's a mafia movie isn't
+00:10:42,720 --> 00:10:44,680;feel hungry and plan to find food;we're going to move on from here to go find some
+00:11:01,639 --> 00:11:04,279;enjoy the park;it is so cool it seems like this spot of the park is where the musician come and
+00:14:33,279 --> 00:14:38,120;buy a scallion pancake;so I just got myself this $8 scallion pancake and I lost note not sure where he
+00:15:02,440 --> 00:15:05,360;consider eating a whole chicken;everything looks so good I want a whole chicken I think it may be too much food
+00:15:25,440 --> 00:15:28,079;learn about deep-fried pork chop with sticky rice cake;the deep-fried pork chop and underneath is actually sticky rice cake which is very typical shanghai
+00:17:16,880 --> 00:17:19,039;eat the typical breakfast food;this is the um shengjian bao which is a typical breakfast food I think for shanghai
+00:18:03,720 --> 00:18:07,280;use hand to eat;so we're now at the Metro station which is conveniently just underneath the mall where we were just eating and we are heading towards kind of the busier part of town called the Bund the famous Bund
+00:20:26,159 --> 00:20:29,480;visit naning pedestrian street;here we are now at the very popular naning pedestrian street
+00:21:01,840 --> 00:21:04,159;plan to walk towards the Bund;we're planning to walk towards the Bund which is just at the end of this street
+00:22:33,559 --> 00:22:38,760;see the Oriental Pearl Tower;wow that is the my no famous what is it called can't even think right now the tower like the orian Oriental Pearl or something I have to find out the name of that Tower it's crazy that now that we here seeing it in front of us I have only seen it in photos it's iconic for Shanghai
+00:25:20,799 --> 00:25:25,720;visit the Bund;this is the bun huh this is the bun it's freaking freaking incredible amazing right so the beautiful um like towers that we saw on the opposite side like the Oriental Pearl TV tower all of that is is not the Bund the Bund is this side which has 50 or more historic buildings mostly our banks and hotels basically a financial area
+timeline;emosOrEvaluations;context
+00:01:04,479 --> 00:01:09,000;nice;this kind of nice coming from 36° in Thailand it was so sticky and hot yeah this is really nice
+00:01:48,399 --> 00:01:52,079;good deal;that's a good deal you want to try it on yeah that's a good deal
+00:02:16,680 --> 00:02:19,519;so cute, comfy;oh my God that looks so cute it's so comfy
+00:02:56,920 --> 00:02:58,720;chic;it's very chic it almost looks like those old streets in Montreal
+00:05:14,840 --> 00:05:17,840;Vibe, nice;this is such a Vibe wow this is so nice I love this neighborhood and the coffee
+00:05:31,319 --> 00:05:33,600;expensive;that is expensive $4 yeah $4 sorry I was changing it in bot which is like almost 140 bot for a coffee which is a bit
+00:06:15,960 --> 00:06:19,520;clean, modern, friendly, convenient;Shanghai has exceeded my expectation it's so clean it's so modern people are so friendly so convenient
+00:06:33,880 --> 00:06:36,639;chill;I find it already very chill you know what I mean
+00:06:57,160 --> 00:07:01,520;delicious;oh my goodness good so delicious oh my goodness
+00:07:58,039 --> 00:08:03,240;surprised;I'm surprised to see that it's packed with people old people young people you know kids
+00:08:35,159 --> 00:08:37,599;amazed;I'm amazed that Shanghai is such a big city but they have a lot of green space and part for people to enjoy
+00:10:58,240 --> 00:11:01,240;cool;it is so cool it seems like this spot of the park is where the musician come and show off their skills
+00:11:58,440 --> 00:12:00,000;happy;oh this is such a happy Park I feel happy being here
+00:13:13,839 --> 00:13:16,399;clean;this one is nice wow that's so clean the interior I think it looks
+00:13:26,120 --> 00:13:31,120;affordable, inexpensive;I would assume it's not too expensive because they are built here in China... it's only 80,000 which is how much which is $1,000 yeah so he's like it's so affordable and that's why lots of people are starting to buy electric vehicles
+00:14:33,279 --> 00:14:38,120;fancy;place it looks so fancy
+00:15:00,519 --> 00:15:02,440;good;everything looks so good I want a whole chicken
+00:16:33,880 --> 00:16:38,079;good looking;look look at this good looking pork chop
+00:17:57,039 --> 00:17:59,799;perfect;I told you you have to be perfect with your chopsticks to be able to eat
+00:18:07,280 --> 00:18:10,240;convenient;the metro in Shanghai is so convenient and it's actually one of the largest metros in the world
+00:20:45,039 --> 00:20:46,400;Lively;it is the perfect place if you're looking to kind of shop and have dinner it is so Lively I like it
+00:22:41,200 --> 00:22:45,320;insane, crazy;wow that is the my no famous what is it called can't even think right now the tower like the orian Oriental Pearl or something I have to find out the name of that Tower it's crazy that now that we here seeing it in front of us I have only seen it in photos it's iconic for Shanghai but that is not the tallest building in Shanghai though the tallest building is actually the Shanghai Tower it's the third tallest building in the world
+00:25:52,880 --> 00:25:55,840;great start;this is a great start to our China Adventure I'm glad we came here to Shanghai I could live here

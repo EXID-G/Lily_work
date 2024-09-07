@@ -1,0 +1,46 @@
+timeline;location;context
+00:02:13,400 --> 00:02:16,800;Morning Market;we're going to the morning Market it's called
+00:02:59,159 --> 00:03:01,080;West Lake;look what happened did you see this yes West Lake
+00:03:01,080 --> 00:03:03,440;Sue Causeway;that's so beauti beautiful I think that is one of the famous causeways it's called Sue Causeway
+00:03:25,560 --> 00:03:30,560;unspecified location;look what happened did you see this yes I break but I didn't use both brakes so
+00:04:47,039 --> 00:04:52,919;Traditional Market;safe wow this is this is a first for me too it's such a traditional like rustic Market
+00:07:40,599 --> 00:07:43,240;Hongo;so this Market is one of the oldest residential neighborhoods that is left in hongo
+00:08:33,679 --> 00:08:37,240;China;so our experience of China like visiting Shanghai and the main part of hongo
+00:13:48,160 --> 00:13:53,240;West Lake;here we are now at the famous West Lake called chiu
+00:14:41,199 --> 00:14:44,240;pier;let's not go with the expensive one cuz I know there's one where it only seats a few people and then they roll the boat by hand like a private one
+00:15:17,920 --> 00:15:21,440;boat;this is our boat it's uh 40 minutes and we'll come back to here this pier
+00:18:32,559 --> 00:18:36,400;Leifeng Pagoda;we got our tickets to the Le pagoda and I think they close in 1 hour so
+00:20:41,559 --> 00:20:44,080;Sue Causeway;that is the Sue Causeway you see there's a bridge there and then right in the middle of the lake is where there's a walking path with all the willow trees
+timeline;dos;context
+00:00:11,599 --> 00:00:15,679;Discussed going to the morning market;so our um our boss man here he said that we can take these ones to go to the morning Market
+00:00:48,520 --> 00:00:51,719;Considered using a ride-sharing app;or we can call like a ride sharing app what do you think
+00:01:09,720 --> 00:01:13,280;Practiced riding an electric bike;practice W it's
+00:01:55,759 --> 00:01:58,439;Took a ride in a brand new car;kilm going to take it for a ride in my brand new car
+00:02:39,800 --> 00:02:42,000;Blocking traffic on electric bikes;we're blocking the
+00:03:39,319 --> 00:03:40,599;Had a minor collision on the bike;I break but I didn't use both brakes so I slowly just hit him just barely
+00:05:57,720 --> 00:06:00,680;Tried a type of pancake;this one is like a pancake and then inside he has green onions
+00:07:36,680 --> 00:07:40,599;Explained the Market;so this Market is one of the oldest residential neighborhoods
+00:11:33,000 --> 00:11:36,760;Tasted and commented on food;yummy let me try the fish oh my God that's delicious
+00:13:53,240 --> 00:13:55,320;Visited West Lake;here we are now at the famous West Lake called chiu
+00:15:17,920 --> 00:15:21,440;Boarded a boat;this is our boat it's uh 40 minutes and we'll come back to here this pier
+00:18:32,559 --> 00:18:36,400;Bought tickets to Leifeng Pagoda;we got our tickets to the Le pagoda and I think they close in 1 hour
+00:20:47,960 --> 00:20:51,120;Listened to the legend of the White Snake;feel young again I want to hear about the uh legend of the White Snake
+00:24:21,320 --> 00:24:24,039;Reflected on the day's activities;I feel very accomplished today I learned how to ride an ebike
+timeline;emosOrEvaluations;context
+00:02:16,800 --> 00:02:19,560;beautiful;oh we're going to the morning Market it's called so we'll get some breakfast some traditional breakfast there actually
+00:03:01,080 --> 00:03:03,440;beautiful;that's so beauti beautiful I think that is one of the famous causeways it's
+00:03:55,439 --> 00:04:02,239;three times the speed, easy;that's three times the speed two three times the speed I'm not but it's easy but it's easy just take a little Ed to but you did a good
+00:05:05,919 --> 00:05:10,320;fresh, freshest;everything seems so fresh the freshest bamboo shoot chicken meat the eggs the eggs over there still was like in Hay
+00:05:57,720 --> 00:06:00,680;delicious, should;this one is like a pancake and then inside he has green onions green onions and should we try it should
+00:07:20,280 --> 00:07:22,800;yummy, perfect;now that's yummy right you explain it perfectly so I hecking duck without the duck yeah you didn't quite explain about this Market you got
+00:09:54,560 --> 00:09:56,600;okay;I guess because I go to the wet Market with my mom sometimes when I was young so I'm like it's okay and I work in the
+00:11:41,160 --> 00:11:43,920;delicious;oh my God that's delicious somehow I was expecting it to be fishy but it's not it's sweet and crispy
+00:13:57,920 --> 00:14:00,160;beautiful, floating;look at how beautiful that wow that is so beautiful looks like it's floating
+00:14:46,639 --> 00:14:49,360;packed;no matter what day you come here it's going to be this pack I think it's even crazier during the holidays it's almost recommended not to come during the holidays because it's so packed
+00:16:27,639 --> 00:16:30,079;nice;this is quite nice best spot I think it's pretty nice good job
+00:17:27,839 --> 00:17:29,360;huge;park you can spend 10 hours here and still not able to explore the whole lake it's huge
+00:18:48,559 --> 00:18:51,080;amazing;it's amazing I'm glad we walked up
+00:20:44,080 --> 00:20:47,960;feel young again;feel young again I want to hear about the uh legend of the White Snake
+00:23:49,720 --> 00:23:53,520;romantic, beautiful;wow at the end of the day you took got the name wrong it's a very romantic and beautiful city
+00:24:21,320 --> 00:24:24,039;accomplished;I feel very accomplished today I learned how to ride an ebike
+00:25:13,080 --> 00:25:16,080;nice day;well that was a nice day spent in h

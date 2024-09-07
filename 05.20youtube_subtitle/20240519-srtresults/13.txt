@@ -1,0 +1,58 @@
+timeline;location;context
+00:00:03,080 --> 00:00:05,319;Bangkok;we are in a taxi and we have left our accommodation in Bangkok
+00:00:46,360 --> 00:00:49,239;Airport in Bangkok;we have made it to the airport here in Bangkok
+00:01:51,360 --> 00:01:53,880;Shanghai;Okay so we've got the tickets we've checked in successfully that was taking
+00:03:39,360 --> 00:03:42,040;Shanghai P International Airport;ladies and gentlemen welcome to Shanghai P International Airport thank you for flying with Shanghai Airlines to China
+00:04:37,440 --> 00:04:41,240;Hotel in China;I've been and got the goods two Chinese Red Bulls check those out they look pretty cool
+00:06:12,199 --> 00:06:16,080;Shanghai;good morning from Shanghai we made it we feel so proud of ourselves we are walking on Chinese land right now
+00:06:46,599 --> 00:06:48,759;Central Shanghai;trying to get to Central Shanghai today so we're trying to find a Metro to get us in there
+00:07:49,960 --> 00:07:51,639;Metro station;I'm not sure if we need the tickets before we come down or not but let's go for it
+00:08:53,000 --> 00:08:57,000;Metro;great we've made it on the Metro success it's always amazing to try public trans spot when you first get to a new country
+00:09:17,760 --> 00:09:19,519;Downtown central;literally I just keep pinching myself realizing that I'm in Shanghai we can't believe it um we've made it to downtown central
+00:10:25,079 --> 00:10:27,600;Heart of the city;so we're right into the heart of the city now I've got the Shanghai Tower which is just over here the third tallest building in the world
+00:10:54,160 --> 00:10:59,959;Restaurant;can I have is this spicy beef look uh yeah a little spicy yeah I can I have that we've been walking around for a while and we are starving so we've come into like we think it's a Chinese fast food place
+00:12:46,920 --> 00:12:49,120;McDonald's;I popped into McDonald's which is next door and I bought her some chicken nuggets she did try that but I don't feel she's had enough to eat
+00:15:46,040 --> 00:15:48,399;Walking Street;so we have made our way to walking Street and it is incredibly busy
+00:16:16,480 --> 00:16:19,240;Riverfront;we're heading down to the river front we want to get the view of the skyline uh with the lights so wishes look but there is a lot of people here
+00:16:56,600 --> 00:16:58,839;Riverfront with a view;finally we've walked so far which means we've got so far to go back but this is completely worth it we're only here for a couple of days and we have to take these chances when we've got them this is absolutely amazing looking at this
+timeline;dos;context
+00:00:03,080 --> 00:00:05,319;Travel to the airport;we are in a taxi and we have left our accommodation in Bangkok we're on the way to the airport
+00:00:46,360 --> 00:00:49,239;Attempt to fly to China;here in Bangkok and we're all a little bit nervous but extremely excited we're about to attempt to fly to China
+00:01:45,000 --> 00:01:47,439;Hope for a successful trip;now I'm hoping so that this is all going to go
+00:02:09,560 --> 00:02:12,400;Get through the check-in;but this is the ticket to actually arrive in China we're going to Shanghai
+00:02:31,800 --> 00:02:34,120;Pass through security;so we've made it through security that went really smoothly
+00:03:39,360 --> 00:03:42,040;Arrive in Shanghai;ladies and gentlemen welcome to Shanghai P International Airport thank you for flying with Shanghai Airlines to China
+00:04:33,000 --> 00:04:35,400;Find transportation to the hotel;let's go and try and find a taxi
+00:05:18,680 --> 00:05:22,240;Get a taxi;that we're in the taxi the taxi is super duper comfortable got these massive big seats
+00:06:16,080 --> 00:06:18,520;Feel proud of arriving in Shanghai;good morning from Shanghai we made it we feel so proud of ourselves we are walking on Chinese land right now
+00:06:46,599 --> 00:06:48,759;Attempt to find the Metro;trying to get to Central Shanghai today so we're trying to find a Metro to get us in there
+00:08:06,840 --> 00:08:10,240;Purchase Metro tickets;we've got our four tickets here it was 5 Yen each which all together is 20 Yen
+00:09:17,760 --> 00:09:19,519;Experience being in Shanghai;literally I just keep pinching myself realizing that I'm in Shanghai
+00:10:59,959 --> 00:11:04,519;Order food at a local restaurant;I've ordered some noodles with chili and beef it looks incredible I'm going to give it a little go right now
+00:12:37,600 --> 00:12:39,399;Get food from McDonald's;I popped into McDonald's which is next door and I bought her some chicken nuggets
+00:13:27,760 --> 00:13:30,760;Enjoy local beverages;we've got a dirty bobber milk tea there and a grape cheese
+00:15:46,040 --> 00:15:48,399;Visit Walking Street;so we have made our way to walking Street and it is incredibly busy
+00:16:16,480 --> 00:16:19,240;Head to the riverfront;we're heading down to the river front we want to get the view of the skyline with the lights
+00:16:56,600 --> 00:16:58,839;Enjoy the view at the riverfront;finally we've walked so far which means we've got so far to go back but this is completely worth it
+timeline;emosOrEvaluations;context
+00:00:05,319 --> 00:00:08,119;slightly nervous, absolutely huge;slightly nervous because today we are taking on something absolutely huge
+00:00:23,400 --> 00:00:26,400;probably the first time, a little bit of the unknown;probably the first time we taking a risk, a little bit of the unknown
+00:01:01,120 --> 00:01:02,760;nervous, extremely excited;a little bit nervous but extremely excited we're about to attempt to fly to China
+00:01:45,000 --> 00:01:47,439;hoping;now I'm hoping so that this is all going to go
+00:02:09,560 --> 00:02:12,400;success;this is the ticket to actually arrive in China we're going to Shanghai getting to Shanghai that is the first aim and then we've got to get through the Border in Shanghai into China so let's see but so far success
+00:03:01,480 --> 00:03:04,699;[Music];[Speaker's emotion is conveyed through the use of music, indicating a positive or uplifting mood]
+00:03:58,280 --> 00:03:59,959;proud;we feel so proud of ourselves we are walking on Chinese land right now
+00:06:16,080 --> 00:06:18,520;so proud;good morning from Shanghai we made it we feel so proud of ourselves
+00:09:17,760 --> 00:09:19,519;surreal, pinching myself;it's so surreal being here literally I just keep pinching myself realizing that I'm in Shanghai
+00:10:59,959 --> 00:11:04,519;incredible, looks insane;it looks incredible I'm going to give it a little go right now
+00:11:36,760 --> 00:11:38,920;super excited;I'm super excited to be here I think it looks really good
+00:12:03,839 --> 00:12:06,399;only a little bit of a hiccup;unfortunately I've ordered hot water not cold for you know only a little bit of a hiccup
+00:13:27,760 --> 00:13:30,760;nice;nice
+00:13:48,680 --> 00:13:49,920;reasonable;these are pretty reasonable so so far
+00:14:33,399 --> 00:14:34,720;so so nice;wow that is so so nice it's like a dessert Allin one grapy
+00:15:07,560 --> 00:15:09,800;fresh, very very comfortable;it feels quite fresh and very very comfortable
+00:15:57,680 --> 00:16:02,000;incredible busy, mad;it is so so busy it's mad there's literally traffic lights for people up there it's so busy it's mad
+00:16:40,680 --> 00:16:44,360;incredible, never forget;this is just incredible I am so so glad I brought the buggy and we have made it to the river front with the most incredible view behind us
+00:17:10,880 --> 00:17:13,079;absolutely amazing, blown me away;it's absolutely blown me away it looks like a theme park it is bizarre it is a city but looks like a theme park
+00:17:50,559 --> 00:17:53,240;Gob smacked, breathtaking;literally Gob smacked we just we can't get enough like it is breathtaking
+00:18:04,320 --> 00:18:07,919;incredible, so so so glad;it's such an incredible City and we are so so so glad that we've managed to make it here

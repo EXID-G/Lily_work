@@ -1,0 +1,45 @@
+timeline;location;context
+00:00:08,039 --> 00:00:12,000;Ningbo;that you've almost certainly never heard of and now as we're getting farther and farther away from Shanghai today what I plan to do is to get out into the countryside and see what the real China is like see some places that most foreigners never go
+00:03:04,879 --> 00:03:08,840;Ferry Station;just traveled about 2 hours to get to this Ferry Station going to take a while
+00:04:24,600 --> 00:04:27,000;Outer Islands;from here you have to catch a ferry to get to the outer islands and that's what I'm interested in I want to go visit the little fishing villages that are still out there
+00:04:45,400 --> 00:04:49,000;Skyscrapers around the port;so go explore these random skyscrapers that's around the port
+00:08:36,279 --> 00:08:38,959;Outer Islands;here we go for the cars I got a car so let's go
+00:13:14,040 --> 00:13:15,880;An island without a bridge;so here we are on an island that doesn't even have a bridge that leads to it which is saying something in China
+00:15:43,800 --> 00:15:46,519;China;China okay okay
+00:23:58,480 --> 00:24:00,880;Ningbo;back on the streets of Ningbo I'm starving let's go try and find some food here in China's 12th biggest city of 8 million people
+00:24:43,840 --> 00:24:47,080;Area with seafood restaurants;this looks like the area right here let's go
+timeline;dos;context
+00:02:35,120 --> 00:02:37,879;Go back to the hotel room;need to go back into my hotel room bring my sunscreen and then we'll go off on an island hopping adventure
+00:03:44,760 --> 00:03:47,760;Ride a boat;much 10 RB to ride this boat that's a little over $1
+00:04:04,040 --> 00:04:06,280;Get wind protection for the microphone;really need to get some wind protection for this
+00:07:35,800 --> 00:07:38,919;Buy a snack before getting on the boat;got about another 10 minutes buy like a little snack before we get on the boat
+00:08:19,360 --> 00:08:21,879;Join the fisherman out to the outer islands;right it's time to join the fisherman out to the outer
+00:10:58,040 --> 00:11:01,040;Find a spot upstairs on the boat;upstairs my spot
+00:12:02,079 --> 00:12:06,120;Observe someone wearing a shirt with a character from Romance of the Three Kingdoms;he's got on his shirt
+00:24:00,880 --> 00:24:05,240;Try to find some food;let's go try and find some food here in China's 12th biggest city
+00:25:03,960 --> 00:25:08,240;Eat clams and fried rice with crab;got some clams over here we got some fried rice with crab in it
+00:26:40,120 --> 00:26:42,360;Do an outro for the vlog;good time to do an outro it's been a fun little day that we had
+timeline;emosOrEvaluations;context
+00:01:10,880 --> 00:01:12,799;okay;okay I'm being purely pressured by the Chinese Grandma
+00:02:14,000 --> 00:02:17,680;oh;oh that mood changed real quick once I said once I said I was American
+00:02:33,000 --> 00:02:35,120;hot;it's hot as balls out here
+00:03:41,560 --> 00:03:44,760;cheap;that's a little over $1 it's a lot cheaper than the taxi was
+00:04:56,000 --> 00:04:58,880;creative;W it's creative place for a clothes hanger got a little gym in here
+00:05:01,880 --> 00:05:05,600;empty;I would also guess the vast majority are empty
+00:07:40,840 --> 00:07:44,520;don't want;don't want a Flo heart
+00:08:52,540 --> 00:08:57,440;not working;my ticket is not working
+00:09:34,360 --> 00:09:36,880;hopefully;hopefully here they have an English translation
+00:10:52,320 --> 00:10:55,519;upstairs;upstairs my spot
+00:11:57,959 --> 00:11:59,290;Music;[Music] (Speaker seems to be enjoying the moment)
+00:13:57,560 --> 00:14:00,120;even;in China even in rural almost deserted Islands they have five-story buildings oh
+00:15:46,519 --> 00:15:49,519;okay;China okay okay
+00:17:45,320 --> 00:17:48,679;wow;wow I love old Chinese people's reaction to me speaking Chinese
+00:18:22,159 --> 00:18:25,159;okay;okay W oh
+00:18:41,720 --> 00:18:43,440;so you can see;so you can see the rural Rejuvenation program in full effect
+00:19:06,360 --> 00:19:09,559;the idea;the idea is that people will want to move out of the cities and come to the countryside
+00:22:08,600 --> 00:22:10,279;Rusty;oh man I just realized my Chinese is so Rusty
+00:22:44,159 --> 00:22:46,559;nice cute;yeah well that was a nice cute little visit to the Chinese Countryside
+00:22:50,480 --> 00:22:52,840;more;but it's nice I can see the progress take
+00:23:58,480 --> 00:24:00,880;starving;I'm starving let's go try and find some food here in China's 12th biggest city
+00:27:54,310 --> 00:27:56,519;Music;[Music] (Speaker seems to be in a good mood, possibly dancing or enjoying the music)
+

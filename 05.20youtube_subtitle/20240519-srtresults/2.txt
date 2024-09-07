@@ -1,0 +1,54 @@
+timeline;location;context
+00:00:07,800 --> 00:00:12,840;Budapest;route starts in Budapest flying with Qatar Airways to Shanghai
+00:00:17,220 --> 00:00:22,620;Shanghai;spending three nights in the city
+00:00:22,620 --> 00:00:26,940;Taipei;then flying on to Taipei
+00:01:07,140 --> 00:01:08,580;Qatar;staying there 10 hours and then flying on to Shanghai
+00:01:36,420 --> 00:01:42,720;China;just want to get to the airport bring it to China
+00:02:31,440 --> 00:02:35,220;Qatar;so we have just landed in Doha, Qatar for our connection
+00:03:41,280 --> 00:03:46,740;Shanghai;we've made it after two hours in a queue we are in China Shanghai
+00:04:46,140 --> 00:04:49,920;Shanghai;we've just come out our hotel and we're gonna try and buy some water from 7-Eleven
+00:05:46,740 --> 00:05:51,600;Shanghai;so we are now on our way to ugada which is like a more traditional area
+00:06:59,760 --> 00:06:59,760;Shanghai;[Music]
+00:07:51,120 --> 00:07:55,860;Shanghai;so we've just come out of the metro and look where we are we're surrounded by some of the tallest buildings in the world
+00:08:27,900 --> 00:08:32,100;Shanghai Tower;so we're gonna try and head up the Shanghai Tower which is the third tallest building in the world
+00:08:44,280 --> 00:08:48,000;Captain Bar;actually found online another place we can go out for a Viewpoint I think it's called Captain Bar
+00:09:00,720 --> 00:09:07,140;Nanjing Road;so we are back on Nanjing road now and it is so much busier than earlier
+00:11:08,160 --> 00:11:11,940;rooftop bar;so we're now going to go to a rooftop bar which is supposed to be a little bit cheaper than other bars
+timeline;dos;context
+00:00:26,940 --> 00:00:31,860;take a test;we've got to take this test can you even remember how to take the test
+00:00:45,360 --> 00:00:51,300;fly to Budapest Airport;to head to Budapest Airport and take this 23 hour flight
+00:01:07,140 --> 00:01:08,580;deny entry;they've denied us entry saying we need a proper visa
+00:01:42,720 --> 00:01:49,020;talk to the Qatar staff;I think we'd talk to the Qatar staff and I think she says lovely
+00:02:08,220 --> 00:02:13,560;get visual boarding passes;they're just like visual boarding passes you'll go
+00:02:35,220 --> 00:02:39,540;worry about transit Visa;we are a little bit worried because we're not sure if we're gonna actually be allowed for the transit Visa
+00:03:41,280 --> 00:03:46,740;get transit Visa;hopefully we're gonna get it that way
+00:04:08,100 --> 00:04:15,780;find their bags;just need to find our bags now
+00:04:20,040 --> 00:04:24,660;get to where they're staying;and jump in a taxi and get to where we're staying because we are so tired
+00:04:46,140 --> 00:04:49,920;buy some water from 7-Eleven;we're gonna try and buy some water from 7-Eleven
+00:05:20,940 --> 00:05:27,240;eat beef noodles;we've ordered some beef noodles and wow these look amazing
+00:06:14,100 --> 00:06:21,480;try prawn;this one is that prawn it might be prawn yeah oh wow so good
+00:06:21,480 --> 00:06:26,520;eat dumplings;Shanghai I think are known for their dumplings
+00:07:06,360 --> 00:07:11,460;try to get the Shanghai Metro;so we are about to try and get the Shanghai Metro
+00:08:01,620 --> 00:08:06,540;look at the buildings;surrounded by some of the tallest buildings in the world
+00:08:16,140 --> 00:08:22,020;use the Shanghai Metro;it was so easy you just put the card in and like tap it when you come off
+00:08:27,900 --> 00:08:32,100;try to go up the Shanghai Tower;so we're gonna try and head up the Shanghai Tower
+00:08:44,280 --> 00:08:48,000;go to Captain Bar;another place we can go out for a Viewpoint I think it's called Captain Bar
+00:09:00,720 --> 00:09:07,140;be on Nanjing road;so we are back on Nanjing road now and it is so much busier than earlier
+00:09:23,220 --> 00:09:34,800;wait for a light show;waiting here for a light show
+00:10:49,920 --> 00:10:54,000;go to a rooftop bar;so we're now going to go to a rooftop bar
+00:11:43,140 --> 00:11:49,380;enjoy the rooftop bar;that bar was stunning like they were so nice in there as well
+timeline;emosOrEvaluations;context
+00:01:18,240 --> 00:01:22,440;hopefully;talking to Qatar and hopefully we're going to get through
+00:01:42,720 --> 00:01:49,020;lovely;she's just like double checking something can check in the regulations but we just want to get to the airport bring it to China then we can just go on to the next destination if they don't allow us in but yeah it's genuinely a thing this is an actual Visa we're not making it up I hope not
+00:02:04,560 --> 00:02:08,220;confused;they kept they were like confused and where they couldn't let us through
+00:03:48,900 --> 00:03:54,180;literally cannot believe it;I literally cannot believe it this morning we got denied entry because they were like oh no that you have to have a proper Visa but we're here we're here in China we've got all the odds 144 hour Visa I'm so excited just need to find our bags now
+00:05:27,240 --> 00:05:32,460;wow, amazing;wow these look amazing kind of like covered in soy sauce like udon noodles in Japan but apparently these thick cut noodles are like local here to Shanghai it's like one of their specialties
+00:05:38,340 --> 00:05:46,740;so good;that actually is so good and it's such a big portion look at it so we are now on our way to ugada which is like a more traditional area it's going to be you know more like other parts of China potentially unlike the big skyscrapers of Shanghai so let's go check it out
+00:06:14,100 --> 00:06:21,480;incredible;that is amazing and you must try what is it the flavors are incredible
+00:07:55,860 --> 00:08:01,620;it's actually mental;this is like another place I won't get over this building it looks like some sort of spaceship or space shuttle
+00:08:16,140 --> 00:08:22,020;so easy;it was so easy you just put the card in and like tap it when you come off and yeah it was only three um Chinese what I think that's how you pronounce it I'm not sure
+00:09:07,140 --> 00:09:13,980;so much busier;it is so much busier than earlier like it's actually crazy at night this place is just plotted with people
+00:10:17,820 --> 00:10:23,460;incredible;it's so unique and just incredible to see I've generally never seen anything quite like it
+00:10:28,860 --> 00:10:35,100;so many colors;yeah so many colors and all the buildings oh there's TVs on them it's bad
+00:11:43,140 --> 00:11:49,380;stunning;that bar was stunning like they were so nice in there as well they like moved us forward a table when people move which is so nice so we get an incredible view of the the iconic Skyline
+00:12:24,180 --> 00:12:28,440;cool and unique experience;it was such a cool and unique experience and we definitely want to come back and check out some of the more rural parts of this amazing country

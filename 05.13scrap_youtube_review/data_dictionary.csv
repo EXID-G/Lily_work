@@ -1,0 +1,11 @@
+column_name,description
+"video_id 	",该评论所在视频的视频id
+"content 	",该评论的内容
+review_id          ,该评论的id号
+"parent_id 	",只有二级评论有，记录的是二级评论所对应的一级评论的review_id
+"reviewer_name 	",该评论的作者名字
+"published_time 	",该评论的发布时间
+"updated_time 	",该评论的更新时间
+"total_reply_count 	",对该评论的回复，该字段对于二级评论为0（因为没有对它们的直接回复）
+"level 	",该评论的等级，一级评论为1，二级评论为2
+"likecount 	",评论受到的点赞量

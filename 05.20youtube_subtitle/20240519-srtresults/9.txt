@@ -1,0 +1,60 @@
+timeline;location;context
+00:00:06,042 --> 00:00:09,042;Indira Gandhi International Airport, Delhi;Currently, I am at Indira Gandhi International Airport, Delhi.
+00:00:09,042 --> 00:00:11,711;China;My first impression of China is very good.
+00:00:28,862 --> 00:00:33,099;China;Today I am going to China and I cannot believe that I am going to China!
+00:02:03,256 --> 00:02:08,928;Almaty, Kazakhstan;From India, I am going to Almaty which is the largest city in Kazakhstan.
+00:02:18,872 --> 00:02:24,811;Beijing, China;After that, I have a flight to Beijing which is the capital of China.
+00:05:39,305 --> 00:05:46,179;Republic of Kazakhstan;Welcome to the Republic of Kazakhstan.
+00:05:59,258 --> 00:06:04,530;Almaty International Airport, Kazakhstan;Currently, I am in Almaty international airport which is the biggest city in Kazakhstan.
+00:09:48,254 --> 00:09:52,458;Beijing, China;I have reached the capital city of China which is our neighbouring country.
+00:10:42,775 --> 00:10:46,312;People's Republic of China;I have finally entered a new country, China.
+00:10:53,786 --> 00:10:59,225;Beijing Capital Airport, China;This is a very big airport named 'Beijing capital airport'
+00:14:50,756 --> 00:14:54,126;Subway near Airport Express train, China;We have come to the Subway near the Airport Express train.
+00:17:25,711 --> 00:17:29,148;Beijing, China;I welcome you all to Beijing, the capital city of China.
+00:17:29,148 --> 00:17:33,986;City centre of Beijing, China;The airport metro dropped me at the city centre of Beijing.
+00:18:48,927 --> 00:18:52,264;Local neighbourhood society in Beijing, China;I met a stranger and I am asking him for my address.
+00:21:51,376 --> 00:21:53,945;Host house in Beijing, China;My host house is there in this building.
+00:24:16,354 --> 00:24:23,762;Shopping complex/mall near host house, Beijing, China;My host told that there is a shopping complex or mall within 50 metres.
+timeline;dos;context
+00:01:16,709 --> 00:01:19,712;Fill out an online application form;You have to fill out an online application form.
+00:01:25,685 --> 00:01:30,757;Provide bank statement for $1900;They asked bank statement for 1900$.
+00:01:30,757 --> 00:01:33,426;Provide return flight ticket, hotel booking, and travel itinerary;They just need the return flight ticket, hotel booking and travel itinerary.
+00:04:07,113 --> 00:04:15,021;Go to Lounge and eat something;I will go to Lounge and eat something.
+00:04:26,266 --> 00:04:30,203;Have breakfast at the Lounge;I have taken dosa, poha, Pav Bhaji and fruit juice.
+00:04:34,841 --> 00:04:38,278;Go towards his gate;I am going towards my gate, the gate number is 6.
+00:04:48,621 --> 00:04:56,162;Get an upgrade to business class;I had booked an economy class but for the first time, I got an upgrade to business class.
+00:06:40,900 --> 00:06:46,005;Want to exit from the airport;I have transit for more than 6.5 hours, so I wanted to exit from the airport.
+00:07:09,996 --> 00:07:15,601;Get entry into Kazakhstan;He did not ask any other questions and he gave me entry into Kazakhstan.
+00:10:59,225 --> 00:11:01,627;Collect check-in baggage;I have collected my check-in baggage.
+00:12:14,700 --> 00:12:16,869;Withdraw money from an ATM;There is an ATM here in the airport, let me withdraw some money.
+00:12:50,703 --> 00:12:53,205;Cannot purchase a SIM card at the airport;We don't get the SIM card at the airport.
+00:14:57,897 --> 00:15:01,133;Purchase a ticket from a vending machine;This is the vending machine, I will purchase the ticket from here.
+00:15:37,569 --> 00:15:41,340;Receive change from ticket purchase;They have given me the remaining change.
+00:17:20,906 --> 00:17:25,411;Welcome to Beijing;I welcome you all to Beijing, the capital city of China.
+00:18:45,858 --> 00:18:48,927;Ask for address from a stranger;I met a stranger and I am asking him for my address.
+00:19:29,434 --> 00:19:33,605;Get a ride from a stranger to the host house;He will show me the address and drop me at my home.
+00:21:53,945 --> 00:21:59,318;Go inside the host house;He told me to take the key and go inside the house.
+00:26:46,605 --> 00:26:51,543;Order food at a restaurant;We ordered a soup and in the local language is known as ‘Godhaka’.
+00:27:10,195 --> 00:27:12,764;Order noodles and Tofu;This is Tofu, which is made from Soya.
+00:27:23,008 --> 00:27:31,049;Split the bill with the host;My host told me to split the bill as we both shared the food.
+timeline;emosOrEvaluations;context
+00:00:00,000 --> 00:00:02,769;cannot believe;I cannot believe that I am going to China!
+00:00:05,505 --> 00:00:09,042;upgraded, good;They have upgraded my seat from Economy to Business class for free of cost. My first impression of China is very good.
+00:00:33,099 --> 00:00:39,472;cannot believe;Today I am going to China and I cannot believe that I am going to China!
+00:01:12,972 --> 00:01:16,709;not very difficult, easy;China visa is not very difficult and it is easy.
+00:02:57,877 --> 00:03:00,246;excited;I am very excited about China and my wishlist is going to be completed.
+00:03:45,625 --> 00:03:49,329;tourism purposes;I told them for 'Tourism purposes'.
+00:05:36,669 --> 00:05:39,305;Welcome;Welcome to the Republic of Kazakhstan.
+00:07:18,004 --> 00:07:23,576;entered, without Visa;Finally, I have entered Kazakhstan. Indian passport holders can stay in Kazakhstan without Visa for up to 14 days.
+00:09:48,254 --> 00:09:52,458;welcome;So guys, finally welcome to the People's Republic of China.
+00:10:42,775 --> 00:10:46,312;welcome;Once again welcome to the People's Republic of China.
+00:13:36,882 --> 00:13:39,018;generous;He has given me 500 local currency.
+00:13:49,461 --> 00:13:54,300;helpful;When I get the internet, I will transfer the equivalent money to him in INR. Chinese are very awesome.
+00:14:46,886 --> 00:14:50,756;complicated;Renminbi and Yuan are very complicated.
+00:15:41,340 --> 00:15:45,311;friendly, nicely;The officers are super friendly. They are greeting us and treat tourists very nicely.
+00:19:38,076 --> 00:19:46,084;unexpected, generous;That I will take help from a stranger and he will be generous enough to drop me at my address.
+00:21:44,970 --> 00:21:46,672;awesome;Chinese are very awesome.
+00:21:46,672 --> 00:21:51,376;good;My first impression of China is very good.
+00:21:51,376 --> 00:21:53,945;friendly, helpful;All the officers and local people are very friendly and very helpful.
+00:26:36,394 --> 00:26:39,064;beautiful;The architecture is very beautiful!
+00:27:06,224 --> 00:27:10,195;spicy;This is a little spicy for the Chinese.

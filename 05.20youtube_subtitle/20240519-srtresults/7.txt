@@ -1,0 +1,74 @@
+timeline;location;context
+00:00:03,360 --> 00:00:06,240;China;China China country that has dominated
+00:00:21,420 --> 00:00:23,220;Shanghai;I decided to visit Shanghai and find out what China is
+00:01:18,720 --> 00:01:21,860;train to the main terminal;we have to catch a train to the main terminal yeah
+00:01:31,560 --> 00:01:33,659;China;oh pretty much officially in China this is cool
+00:02:55,080 --> 00:02:58,200;Shanghai;oh that's not very fast are you serious it's closed
+00:03:08,160 --> 00:03:10,500;Shanghai;okay or Duty which is over here look at
+00:04:09,299 --> 00:04:10,620;Shanghai;it's an airport and it's like 10 30
+00:05:20,100 --> 00:05:21,360;Shanghai;we finally arrived in our hotel in downtown Shanghai
+00:05:29,160 --> 00:05:32,460;Shanghai;the first stop is this famous or popular breakfast Pancake type thing
+00:08:21,599 --> 00:08:23,639;Shanghai;what the people of Shanghai are really like
+00:11:15,899 --> 00:11:19,079;Shanghai Science and Technology Museum;caught the metro to the famous Shanghai Science and Technology Museum
+00:11:23,519 --> 00:11:26,040;Shanghai;within the metro station itself lies the biggest most famous and probably highest
+00:13:44,700 --> 00:13:47,000;Shanghai;my cost is price is the more higher you it is twenty dollars
+00:16:40,560 --> 00:16:43,139;Shanghai;one thing I've noticed a lot walking around the city today
+00:17:41,380 --> 00:17:42,900;Shanghai;this street I'm pretty sure it was called Huang hey and
+00:20:07,020 --> 00:20:08,520;Shanghai;we're here at the walking Street I'm gonna walk down here
+00:21:45,059 --> 00:21:46,320;Shanghai;okay we need more money because it's really expensive here
+00:23:20,280 --> 00:23:21,960;China;I've never seen anything like this I don't know what to
+00:24:52,380 --> 00:24:54,720;Shanghai;so we're coming down a little Alleyway off the main walking Street back here
+00:25:52,380 --> 00:25:54,720;Shanghai;I thought it would be clean and perfect and there'd be like a bit like
+00:29:27,539 --> 00:29:29,159;Shanghai;my worries fizzled out and they were replaced by those genuine moments of joy
+timeline;dos;context
+00:01:53,460 --> 00:01:55,860;capture the train;this is cool okay she had to go capture the train
+00:02:08,340 --> 00:02:11,479;wonder if Chinese Coke tastes different;let's catch the train I wonder if Chinese Coke tastes different
+00:02:24,420 --> 00:02:27,180;comment on the train technology;magnetic Michael's trying to tell me that the train doesn't even touch the track
+00:02:51,720 --> 00:02:53,519;wait for the train;seven minutes to go 30 kilometers
+00:03:08,160 --> 00:03:10,500;figure out transportation;okay or Duty which is over here look at Uber figure it out let's charge up
+00:03:19,280 --> 00:03:23,300;eat at McDonald's;whoa look at the popcorn chicken
+00:04:20,238 --> 00:04:23,299;want to try Chinese food;so it has made me 20 million times more excited to have some Chinese food now
+00:05:24,360 --> 00:05:26,820;try a local breakfast;ready to try a real local breakfast
+00:06:53,880 --> 00:07:00,180;describe food;it's basically just like a creeper she like fries it on the plate adds the egg
+00:07:40,139 --> 00:07:41,580;enjoy the food;one of the best things I've ever eaten in my life
+00:08:21,599 --> 00:08:23,639;visit People's Park;headed to People's Park to see what was happening
+00:08:52,260 --> 00:08:53,519;consider going on a roller coaster;so let's go on the ride
+00:11:23,519 --> 00:11:26,040;visit a fake market;within the metro station itself lies the biggest most famous and probably highest quality genuine fake Market
+00:13:06,959 --> 00:13:10,440;negotiate the price of a Stanley Cup;okay that's 31 I could almost buy a new one for that
+00:15:03,540 --> 00:15:04,699;consider buying T-shirts;you want to buy T-shirts
+00:16:33,360 --> 00:16:36,320;head back into the city for food;head back into the city
+00:17:35,419 --> 00:17:37,679;eat dumplings;and then we'll get some dumplings
+00:18:07,799 --> 00:18:10,039;try scallion noodles;this is apparently the dish to have in Shanghai scallion noodles
+00:18:30,960 --> 00:18:33,059;pay for the meal;so all of this your Coke for this and this was 40
+00:23:50,760 --> 00:23:52,620;buy a meat skewer;so I'm gonna grab one
+00:25:01,919 --> 00:25:04,679;try fresh milk tea and bamboo oolong;is that what are they what are these Knuckles all right I have to use Google Translate for this one
+00:27:06,440 --> 00:27:09,559;buy honey Peach juice;honey Peach and we've got a bucket of ice because I wanted at Kohl's
+00:28:05,520 --> 00:28:08,120;consider buying orange juice;I might just get an orange juice to be honest
+timeline;emosOrEvaluations;context
+00:00:03,360 --> 00:00:06,240;dominated, rich, famous, ancient;China China country that has dominated news cycles for decades a country rich in culture famous for its food its hard-working people and it's ancient
+00:00:21,420 --> 00:00:23,220;surprised;what I saw really surprised me
+00:01:06,060 --> 00:01:08,820;excited;I'm excited it's been a long time since I've seen a new country
+00:01:31,560 --> 00:01:33,659;cool;oh it's cool this is the money that's the money we got money yeah
+00:02:51,720 --> 00:02:53,519;nervous;I am a little bit nervous
+00:03:19,280 --> 00:03:23,300;excited;it's an airport and it's like 10 30 we're not going to be able to finally at the moment so that has made me 10 times 20 million times more excited
+00:05:24,360 --> 00:05:26,820;excited;I am so excited to explore Shanghai today
+00:06:48,539 --> 00:06:57,600;delicious, drooling;this looks so good my Mandarin isn't really like I don't think it's working here very well the accent stuff my I think I'm not pronouncing things properly anyways I'm gonna say it looks so delicious you've got like a little bit of crispy in there some chives some egg around the side and it's basically just like a creeper she like fries it on the plate adds the egg cracks it open mixes it around and it's like basically like egg yolk with some chai oh I'm I'm drooling this looks so good
+00:07:41,580 --> 00:07:44,039;life changing;this is honestly one of the best things I've ever eaten in my life there is life changing wow
+00:08:41,159 --> 00:08:43,380;crazy;like it's it's crazy we're in the part with all the roller coasters and I want to go on one
+00:10:30,720 --> 00:10:33,060;expensive;40 here is like 8.50 that is so much money so I don't know why I pay that much for that little ride
+00:13:06,959 --> 00:13:10,440;expensive;okay that's 31 I could almost buy a new one for that yeah the quality and a big size
+00:15:54,720 --> 00:15:57,720;cute;it's so cute and then have my Stanley Cup
+00:16:40,560 --> 00:16:43,139;quiet;one thing I've noticed a lot walking around the city today is that it's so quiet
+00:17:45,900 --> 00:17:49,039;good;this is apparently the dish to have in Shanghai scallion noodles they smell like the me going I make at home
+00:18:20,460 --> 00:18:22,799;sweet, plain;it's like kind of sweet but kind of plain like a soy sauce flavor but not soy sauce I don't know
+00:18:44,960 --> 00:18:47,640;not bad;this isn't bad actually I take it back it's not great they need salt
+00:19:07,320 --> 00:19:11,940;worn out, tired;so I am so just worn out from the Heat and I've been sweating all morning a little bit tired
+00:19:42,840 --> 00:19:44,460;come out of my shell;I started to come out of my shell while
+00:20:05,280 --> 00:20:07,020;insane;this place is insane but we're here at the walking Street I'm gonna walk down here
+00:21:03,480 --> 00:21:06,480;uh;uh
+00:23:47,539 --> 00:23:50,760;never thought;I've never thought I'd even come to China
+00:24:57,840 --> 00:24:59,100;expensive;this place is expensive
+00:25:54,120 --> 00:25:57,419;no;no no so it's um it's like flavored something I don't know I thought it would be like a milk tea
+00:29:27,539 --> 00:29:29,159;joy, achievement;my worries fizzled out and they were replaced by those genuine moments of joy and achievement
+00:29:31,020 --> 00:29:32,760;pushing ourselves;we get from pushing ourselves outside of our comfort zones
+00:29:46,679 --> 00:29:49,080;beautiful experiences;I've been rewarded with beautiful experiences time and time again
